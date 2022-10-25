@@ -13,7 +13,7 @@
         <li>Seçilen ürünün doğru olarak eklendiği ‘Sepetim’ sayfasında doğrulanmalıdır.</li>
         
     </ul>
-    <br>
+   
     <h5>2. Kullanıcı girişi yapılmadan belirtilen ürünü sepete ekleme</h5>
     <ul type="square">
         
