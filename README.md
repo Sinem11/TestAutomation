@@ -1,7 +1,7 @@
 # TestAutomation
 <h3>Test Otomasyon Projesi</h3>
     <p><b>Kullanılan Dil ve Teknoloji: </b>Java, Selenium</p>
-    <b>Bilgilendirme: </b> Test çalıştırılmadan önce kod içerisinde testWithLogin metodunda **** olarak belirtilen userEmail, userPassword, userName değişkenlerine uygun değerler yazılmalıdır.
+    <b>Bilgilendirme: </b> Test çalıştırılmadan önce kod içerisinde testWithLogin metodunda **** olarak belirtilen userEmail, userPassword, userName değişkenlerine uygun değerler yazılmalıdır."keyword " değişkene istenilen ürün yazılarak farklı ürünler için test edilebilir.
     <h4>Test Adımları</h4>
     <h5>1. Kullanıcı girişi yapılarak sepete ürün eklenmesi</h5>
     <ul type="square">
